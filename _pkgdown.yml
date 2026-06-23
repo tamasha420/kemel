@@ -1,0 +1,16 @@
+url: https://www.rwhite.no/cohort/
+
+reference:
+- title: "Cohort Construction"
+  desc: "The CohortPipeline R6 class — the main entry point of the package."
+  contents:
+    - CohortPipeline
+
+authors:
+  footer:
+    roles: [cre, aut]
+    text: "Crafted by"
+  sidebar:
+    roles: [cre, aut, cph]
+  Richard Aubrey White:
+    href: "https://www.rwhite.no"

@@ -1,0 +1,16 @@
+^.*\.Rproj$
+^\.Rproj\.user$
+^data-raw$
+^cran-comments\.md$
+^.*\.Rcheck$
+^pkgdown$
+^docs$
+^doc$
+^Meta$
+^\.github$
+^CLAUDE\.md$
+^PROJECT\.md$
+^\.claude$
+^\.DS_Store$
+^cohort_pipeline_proposal\.html$
+^_pkgdown\.yml$
