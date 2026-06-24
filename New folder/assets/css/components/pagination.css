@@ -1,8 +1,0 @@
-/* --- Pagination ---
-   Prev/next links for blog listing. */
-
-.pagination {
-  display: flex;
-  justify-content: space-between;
-  margin-top: var(--space-xl);
-}
